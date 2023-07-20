@@ -1,0 +1,3 @@
+Este proyecto usa la version
+
+.NET Framework SDK 4.8
